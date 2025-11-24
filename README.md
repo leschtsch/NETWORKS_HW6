@@ -11,5 +11,5 @@
 `bad.horse` я не только пинговал, потому что traceroute из-под gns долгий.
 
 ![UDP traceroute](holy.diver.udp.png)
-![TCP traceroute](holy.diver.tcp.png)
+![ICMPtraceroute](holy.diver.ICMP.png)
 ![ping](ping.png)
